@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An animadversion upon the late Lord Protectors declaration, for the distressed churches of Lesna, &amp;c. Together with a seasonable caution against the petition of the Kentish anabaptists, for too large a toleration in religion, and throwing down all established maintenance for the ministry.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75360</idno>
+            <idno type="STC">Wing A3187</idno>
+            <idno type="STC">Thomason E988_5</idno>
+            <idno type="STC">ESTC R208057</idno>
+            <idno type="EEBO-CITATION">99867061</idno>
+            <idno type="PROQUEST">99867061</idno>
+            <idno type="VID">119351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119351)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An animadversion upon the late Lord Protectors declaration, for the distressed churches of Lesna, &amp;c. Together with a seasonable caution against the petition of the Kentish anabaptists, for too large a toleration in religion, and throwing down all established maintenance for the ministry.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed Anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 20." .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119351:1" rendition="simple:additions"/>
+            <p>AN ANIMADVERSION Upon the Late Lord Protectors DECLARATION, For the diſtreſſed Churches of LESNA, &amp;c.</p>
+            <p>TOGETHER With a ſeaſonable Caution againſt the PETITION of the <hi>Kentiſh</hi> Anabaptiſts, for too large a Tole<g ref="char:EOLhyphen"/>ration in Religion, and throwing down all Eſtabliſhed maintenance for the MINITSRY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1659.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:119351:2"/>
+            <pb n="3" facs="tcp:119351:2"/>
+            <head>Vaticinium in Decretum <hi>OLIVERI Protectoris</hi> de Eccleſiis <hi>Polonicis</hi> Sublevandis.</head>
+            <lg>
+               <l>
+                  <hi>Q<g ref="char:V">Ʋ</g>i</hi> Leſnaea <hi>refers, miſeris ſuccurrere promptus,</hi>
+               </l>
+               <l>
+                  <hi>Eſto domi, Lupui iſte tuos, hên! dovorat Agues,</hi>
+               </l>
+               <l>
+                  <hi>Bt tu ſalvus eris, tulit haeo cum vulnera Chriſtus?</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Sic gemibundus queritur tremebundus de periculo Protectoris.</hi> Anglicus Vates.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>Prophetical Verſes, upon occaſion of the <hi>Lord Protector</hi>'s Declarati<g ref="char:EOLhyphen"/>on, for a Collection for diſtreſſed Churches of <hi>Poland. 1658.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>AH thou that pittieſt</hi> Leſna<hi>'s ſufferings,</hi>
+               </l>
+               <l>
+                  <hi>Thine own Oppreſſors ſhelter with thy wings:</hi>
+               </l>
+               <l>
+                  <hi>The ſame Wolfe which abroad ſo ravenous is,</hi>
+               </l>
+               <l>
+                  <hi>Worries thy Lambs, whilſt they Protection miſs:,</hi>
+               </l>
+               <l>
+                  <hi>And canſt thou think thy felf ſecure, when he</hi>
+               </l>
+               <l>
+                  <hi>Lies wounded that was Crucified for thee</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thus he complains with tears,</hi>
+               </l>
+               <l>
+                  <hi>who full of fears</hi>
+               </l>
+               <l>
+                  <hi>My Lord Protectors danger</hi>
+               </l>
+               <l>
+                  <hi>on his heart bears.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:119351:3"/>
+            <head>An Animadverſion upon the late <hi>Lord Protector</hi>'s Declaration, for the diſtreſſed Churches of <hi>Leſna.</hi>
+            </head>
+            <p>A Good Admonition to Governours, whilſt they have power in their hands, to take ſpecial care for the oppreſſed; for God is the avenger of the oppreſſed: Therefore King <hi>James</hi> gave his Son, Prince <hi>Henry,</hi> excellent advice in theſe words, Although (ſaid he) that the crime of Oppreſſion, be not in the rank of crimes that you ſhould hold unpardonable, yet the over common uſe of it in this Nation, as if it were a vertue, eſpecially by the greateſt rank of. Subjects in the Land, requireth the King to be a ſharp cenſurer thereof. Be diligent therefore to try, and awful to beat down the horns of proud oppreſſors; embrace the quarrel of the poor and diſtreſſed, as your own particular, thinking it your greateſt honour to repreſs the Oppreſſors; care for the pleaſure of none, neither ſpare you any pains in your own Perſon, to ſee their wrongs re<g ref="char:EOLhyphen"/>dreſſed; and remember the honourable ſtile given to my Grand-father of Worthy Memory, in being called, <hi>The poor mans King.</hi>
+            </p>
+            <p>If King <hi>Charls</hi> had carefully kept to this wiſe advice, or <hi>Oliver</hi> the Protector, they had both been more happy in themſelves and their Families; but when complaints of groſs Oppreſſions could not be heard, when horrid deſignes were laid for innocents lives and Eſtates, when a<g ref="char:EOLhyphen"/>bominable oppreſſions were confirmed by Law in the Courts of Juſtice, when God, his Truth, his Ordinances,
+<pb n="5" facs="tcp:119351:3"/>his Miniſters, and all that was dear to him,
+<note place="margin">
+                  <hi>Pſal.</hi> 67.9.10.12.</note> was abuſed and oppreſſed, <hi>then God aroſe to Judgment to ſave all the meek of the earth. Surely the wrath of man ſhall praiſe thee, the remainder of wrath ſhalt thou reſtrain; he ſhall cut off the ſpirit of Princes, he is terrible to the Kings of the Earth.</hi>
+            </p>
+            <p>God give the Parliament wiſe, careful, and ready hearts, in their day, to break every yoak of oppreſſion, and pre<g ref="char:EOLhyphen"/>vent the ſubtile practiſes of the ſpirit of Anti<g ref="char:EOLhyphen"/>chriſt, working amongſt us under a diſguiſe, which ſubti<g ref="char:EOLhyphen"/>ly ſeeks to oppreſs many hundred families, whilſt it cries againſt great oppreſſion, witneſs the late Petition of the Kentiſh Anabaptiſts, who ſo faſt degenerate into Popery, or what is worſe, firſt grudging at Tythes, and now profeſ<g ref="char:EOLhyphen"/>ſing againſt all eſtabliſhed maintainance for the Miniſtry.</p>
+            <p>
+               <hi>Forced Maintainance</hi> they call it, and they think its branded ſufficiently with this notion, becauſe its forced: but what fault is there in that it is forced, ſo long as 'tis juſt? If the Parliament force them to be juſt, and honeſt, and ſober, and peaceable, are theſe things evil becauſe they are forced to it? If a thief would ſteal, has he cauſe to complain of the Magiſtrate becauſe he will not let him? If a drunkard would be drunk but dare not, will we allow of his complaint, that he muſt be ſober whether he will or no? If mutinous tumultuous ſpirits are diſarmed and watched, ſhall the Magiſtrate be called a Tyrant becauſe he will not ſuffer them to rebel? What iniquity is there in forcing their conſciences to be good, juſt, honeſt, and not to ſpoil Gods Miniſters of what is their right?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But it is not their Right: </hi>
+            </p>
+            <p>Nay, let it fall to the Ground then; But why not their Right? Hath not the Lawes of the Land made the Tythes the right of the Miniſtry? Have not the holy Vowes of their fore-fathers conſecrated the Tythes to God for the ſervice of the Miniſtry? its Gods Right, and the Miniſters right by ſacred Vowes and juſt Laws; and have they no right to them?</p>
+            <pb n="6" facs="tcp:119351:4"/>
+            <p>Have not their Land-lords right to their Rent? Have not the Magiſtrates right to their Tribute and Taxes? have not they themſelves right to the Inheritance that their Fa<g ref="char:EOLhyphen"/>thers left them? Why then have not the Miniſters right to the Tythes which are theirs by the ſame Law, and with like Approbation of Gods Word?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But it is a grievous burthen to pay Tythes. </hi>
+            </p>
+            <p>Nay, but they miſtake in this alſo, its no burthen at all; its no burthen to a man to pay another that which is juſtly his; nay it were a burthen upon his conſcience not to pay it?</p>
+            <p>Is it a burthen to an Executor to pay the Legacies of the Will of the Deceaſed, that which he never pur<g ref="char:EOLhyphen"/>chaſed, never could call his? the Tythes are your Fa<g ref="char:EOLhyphen"/>thers Legacies to the Miniſtry, they are Gods Legacies; that God that gives you the nine parts, and the Miniſter the Tenth; and is it a burthen to pay Gods Legacies, and your fathers Legacies.</p>
+            <p>If you take away the Tenth, may not God juſtly take away the other nine? what then have you got by your Covetouſneſs? Look to it ye ſubtile Robbers of God and his poor Church, that think your gain Godlineſſe, look to it before hand; when you have done your worſt, and ſpoiled the Miniſters of the Goſpel, then will God ſurely ſpoil you; and where is your gain?</p>
+            <p>Ye fools and blind, have you forgotten <hi>Korahs</hi> conſpi<g ref="char:EOLhyphen"/>racy, that invaded the Prieſt-hood and holy things of God, take heed it be not verified upon you; <hi>They ſhall periſh in the gain-ſaying of</hi> Korah. Oppreſſion cryes, and will be heard in heaven againſt you for this.</p>
+            <p>Were this the way for the Parliament to do worthily, as ye ſay, to take away the ancient Rights of God and his Miniſters, and leave nothing in the room, becauſe it muſt not be forced; nay were not this the unworthieſt act that ever they committed? you come with the old ſophiſtry of the Serpent; <hi>Ye ſhall be as Gods,</hi> ſaith the
+<pb n="7" facs="tcp:119351:4"/>Devil to our firſt Parents; Subtle Tempers uſher in their ſinne with a fair mask, and Wine that intoxicateth; <hi>you ſhall do worthily, and ſurmcunt all before you,</hi> the Lord rebuke that lying foul ſpirit: Here's <hi>Ehuds</hi> preſent before his Dagger, <hi>Zibahs</hi> flattering before his plunder, an abhorring of Idols before the committing of ſacri<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>Alas, I ſee what ſtrong Temptation, Governours are aſſaulted with, but the Lord heartens them to be couragi<g ref="char:EOLhyphen"/>ous and faithful, that they may not ſtain their famous Works with that which is moſt ignominious in the latter end, but give ſuch a ſevere check as <hi>David</hi> did his kinsmen; <hi>What have I to do with you ye Sonnes of</hi> Zer<g ref="char:EOLhyphen"/>viah? And as our Lord Chriſt did his own dear Diſci<g ref="char:EOLhyphen"/>ples, when his Counſel was not good, <hi>Get thee behinde me Sathan, for thou art an offence unto me.</hi>
+            </p>
+            <p>The other part of their deſire, for a tolleration of thoſe that diſſent in matters of faith, is well ſpoke to by the Re<g ref="char:EOLhyphen"/>verend Dr. <hi>Reynolds,</hi> in a late Sermon before the Parlia<g ref="char:EOLhyphen"/>ment, upon <hi>Phil.</hi> 3.15, 16. therefore I refer theſe men, if they will be informed, to that work.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
